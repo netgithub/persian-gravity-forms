@@ -1,3 +1,5 @@
+![icon-128x128](https://github.com/user-attachments/assets/5cc95be2-1baa-41e4-b260-d3f9cfc06275)
+
 # persian-gravity-forms
 Description
 
